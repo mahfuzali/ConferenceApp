@@ -1,0 +1,9 @@
+
+[
+java:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(Ýþ°½8ôÅº²š.
+p
+java:S4488!"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(…Ìò³ÿÿÿÿÿ8ôÅº²š.
+e
+java:S4488'"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(ç±èã8ôÅº²š.
+T
+java:S1135*"2Complete the task associated to this TODO comment.(Þ¹à¾ýÿÿÿÿ8ôÅº²š.

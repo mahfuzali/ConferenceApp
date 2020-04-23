@@ -1,0 +1,19 @@
+
+r	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•´…Þüÿÿÿÿ8£ÿú“š.
+z	java:S116"YRename this field "session_length" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ª¿øÿÿÿÿÿ8£ÿú“š.
+x	java:S116"WRename this field "session_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ÇÄ„üÿÿÿÿ8£ÿú“š.
+z	java:S116"^Rename this field "session_description" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÞ×¨8£ÿú“š.
+o	java:S100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹†ôŸüÿÿÿÿ8£ÿú“š.
+q	java:S116"URename this field "session_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ôµø8£ÿú“š.
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(þ©“°þÿÿÿÿ8£ÿú“š.
+o	java:S1008"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š‹¥äøÿÿÿÿ8£ÿú“š.
+j	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ã‘Ð8£ÿú“š.
+o	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•´…Þüÿÿÿÿ8£ÿú“š.
+o	java:S100<"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÌ“÷üÿÿÿÿ8£ÿú“š.
+r	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š‹¥äøÿÿÿÿ8£ÿú“š.
+m	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âìúº8£ÿú“š.
+i	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¿î?8£ÿú“š.
+l	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¿î?8£ÿú“š.
+o	java:S1004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ëŠÏýÿÿÿÿ8£ÿú“š.
+j	java:S100@"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âìúº8£ÿú“š.
