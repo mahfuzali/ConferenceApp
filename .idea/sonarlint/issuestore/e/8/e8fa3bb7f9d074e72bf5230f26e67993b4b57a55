@@ -1,9 +1,13 @@
 
-[
-java:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(İş°½8Ğ¸²š.
-T
-java:S1135,"2Complete the task associated to this TODO comment.(Ş¹à¾ıÿÿÿÿ8Ğ¸²š.
-e
-java:S4488)"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(ç±èã8Ğ¸²š.
-p
-java:S4488#"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(…Ìò³ÿÿÿÿÿ8Ğ¸²š.
+R
+java:S1135"2Complete the task associated to this TODO comment.(Ş¹à¾ıÿÿÿÿ8Ğ¸²š.
+c
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(ç±èã8Ğ¸²š.
+n
+java:S4488"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(…Ìò³ÿÿÿÿÿ8Ğ¸²š.
+Y
+java:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(İş°½8Ğ¸²š.
+`
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ÏşëÇøÿÿÿÿ8ÄÈ”³š.
+`
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(âş¾Äûÿÿÿÿ8ÄÈ”³š.
