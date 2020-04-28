@@ -17,3 +17,5 @@ Ksrc/main/java/com/mahfuz/conferencedemo/controllers/SpeakersController.java,d\
 Ksrc/main/java/com/mahfuz/conferencedemo/repositories/SessionRepository.java,7\3\731a5c81c2880cf937aafab1d3fc33ea4e2df1a5
 {
 Ksrc/main/java/com/mahfuz/conferencedemo/repositories/SpeakerRepository.java,1\7\17297f2f8a99aab867d9cabd7b63ec7489f78c4b
+[
++.idea/libraries/Maven__junit_junit_4_12.xml,a\f\afa6ca72908af2e838d0cb108eb24f143bc62da7
